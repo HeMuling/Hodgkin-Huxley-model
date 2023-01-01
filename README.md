@@ -6,6 +6,8 @@ an implementation of Hodgkin-Huxley model using python
 
 `cn_HHmodel_brain2.py`: an implementation by `brian2`
 
+`cn_HHmodel_raw_update.py`: an implementation purely by `numpy`, with update which adds a new hyperparameter area of the neuron
+
 ## `brian2` package
 
 info. available on official website: https://brian2.readthedocs.io/en/stable/index.html
